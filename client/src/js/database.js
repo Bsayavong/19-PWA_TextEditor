@@ -32,6 +32,7 @@ export const getDb = async () => {
   const request = store.getAll();
   const result = await request;
   console.log(result);
+  
   // console.log('result.value', result);
   result
   ? console.log('🚀 - data has been got', result.value)
