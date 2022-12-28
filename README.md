@@ -51,8 +51,8 @@ If you have plans to install on local machine, go ahead and proceed with clickin
 Link to live application is deployed to Heroku and is available [here.](https://pwa-19-texteditor.herokuapp.com/)
 
 ## Screenshot
-![my screenshot](./images\19-PWA-Heroku.png)
-![my screenshot](./images\19-PWA-installed.png)
+![my screenshot](./assets\images\19-PWA-Heroku.png)
+![my screenshot](./assets\images\19-PWA-installed.png)
 
 
 ## Contributing
